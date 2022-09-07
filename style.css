@@ -1,0 +1,23 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(Lab17.1\images/image1.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(Lab17.1\images/image1.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(Lab17.1\images/image3.jpg);
+}
+.footer-text {
+  margin-top: 300px;
+  font-size: 20px;
+}
+
+.footer-key {
+  float: right;
+}
